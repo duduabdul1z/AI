@@ -1,0 +1,35 @@
+[
+    {
+        "employeeID": "0207104",
+        "name": "Josiah Gyamesi",
+        "position": "CEO"
+    },
+    {
+        "employeeID": "0207105",
+        "name": "Bright Kesson",
+        "position": "Director"
+    },
+    {
+    
+        "employeeID": "0207106",
+        "name": "Mohammed Konney",
+        "position": "Human resource"
+    },
+    {
+        "employeeID": "0207107",
+        "name": "Jeffery Atebi",
+        "position": "Cleaner"
+    },
+    {
+    
+        "employeeID": "0207108",
+        "name": "RIta Dough",
+        "position": "Financial Secretary"
+    },
+    {
+    
+        "employeeID": "0207109",
+        "name": "Kojo Nkansah",
+        "position": "Manager"
+    }
+]

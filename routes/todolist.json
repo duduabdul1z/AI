@@ -1,0 +1,29 @@
+[
+    {
+        "activity": "Day to Day Income",
+        "done" : true
+    },
+    {
+    
+        "activity": "meeting with Aquatrust Company",
+        "done" : true
+    },
+    {
+        "activity": " Employee Weekly Assesments",
+        "done" : true
+    },
+    {
+        "activity": "Income Review",
+        "done" : true
+    },
+    {
+        "activity": "Signing deal with Aquatrust",
+        "done" : false
+    },
+    {
+        "activity": "Preparing Monthly Salary",
+        "done" : true
+    }
+
+    
+]
